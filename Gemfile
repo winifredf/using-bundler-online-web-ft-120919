@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "sinatra", "1.4.4"
-gem "rack_protection", "1.4.4"
+
 
 
 
